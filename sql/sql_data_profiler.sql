@@ -372,3 +372,4 @@ SELECT table_name as tableName, column_name as columnName, countdistinct, Missin
 SELECT * FROM numeric_summary_table;
 SELECT * FROM categorical_summary;
 
+SELECT * FROM summary_stats
