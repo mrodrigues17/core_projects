@@ -1,9 +1,2 @@
 
 api_key: 'ece1736d167de11071d24bc9aae8ba71'
-
-city: 'Chicago'
-
-latitude: 41.9105
-longitude: -87.679596
-
-forecast_horizon: 5
